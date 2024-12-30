@@ -1,4 +1,3 @@
-Temporal Biodiversity and Network Models Analysis
 This repository contains code, data, and scripts for measuring temporal biodiversity and constructing network models in ecological studies. The project uses multiple statistical and modeling approaches to investigate temporal changes in biodiversity and the stability of ecological networks.
 
 
